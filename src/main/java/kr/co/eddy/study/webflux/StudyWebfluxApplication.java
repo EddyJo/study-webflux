@@ -1,4 +1,4 @@
-package kr.co.eddy.study.webflux.studywebflux;
+package kr.co.eddy.study.webflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
