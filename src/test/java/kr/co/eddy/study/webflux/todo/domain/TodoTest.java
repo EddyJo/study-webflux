@@ -10,7 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class TodoTest {
 
-    @DisplayName("TODO 생성 테스트")
+    @DisplayName("TODO 생성 테스트 Builder")
     @Test
     public void TODO_생성_테스트() {
 
