@@ -26,6 +26,5 @@ public class HelloWorldRouterTest {
         assertThat(responseBody.getId()).isEqualTo(1);
         assertThat(responseBody.getTitle()).isEqualTo("hello");
         assertThat(responseBody.getMessage()).isEqualTo("say hi");
-
     }
 }
