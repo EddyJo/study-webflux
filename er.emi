@@ -1,0 +1,25 @@
+[33mcommit 9ac7c78527ff6dba942e01894330f6cdafe7119a[m
+Author: EddyJo <jkjk0600@gamil.com>
+Date:   Sat Oct 3 20:51:51 2020 +0900
+
+    feat(java) : Todo Domain Object init
+
+[33mcommit e5e8c1c59e063e91fdfbd153c51fc99fc3816609[m
+Author: EddyJo <jkjk0600@gamil.com>
+Date:   Sat Oct 3 19:26:45 2020 +0900
+
+    feat(.properties, gradle) : H2 의존성 및 설정 추가, Hibernate 설정 추가
+
+[33mcommit db3e1f00ce3ca0104e49e5b67cd460aba1d928bd[m
+Author: EddyJo <jkjk0600@gamil.com>
+Date:   Sun Sep 27 11:08:27 2020 +0900
+
+    chore (gradle) 쓰지않는 Dependancy 제거
+
+[33mcommit 4e27ed666678a56a95ff436a51cd51edf5d189a0[m
+Author: EddyJo <jkjk0600@gamil.com>
+Date:   Sun Sep 27 09:44:31 2020 +0900
+
+    init (project) : Spring boot - WebFlux 스터디 프로젝트
+    
+    WebFlux를 공부하고 직접 구현해보기 위한 스터디 프로젝트
